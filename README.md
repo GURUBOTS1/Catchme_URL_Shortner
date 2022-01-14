@@ -12,8 +12,8 @@
 * `API_ID`: Get this value from [my.telegram.org](https://my.telegram.org/apps).
 * `API_HASH`: Get this value from [my.telegram.org](https://my.telegram.org/apps).
 * `API_KEY`: Create [Droplink](https://droplink.co/api) account then get this value from [Droplink API](https://droplink.co/api).
-* `API_KEY1`: Create [EarnClick](https://earnforclick.online/api) account then get this value from [Droplink API](https://earnforclick.online/api).
-* `API_KEY2`: Create [PdiskShortner](https://pdiskshortener.in/api) account then get this value from [Droplink API](https://pdiskshortener.in/api).
+* `API_KEY1`: Create [EarnClick](https://earnforclick.online/api) account then get this value from [EarnClick API](https://earnforclick.online/api).
+* `API_KEY2`: Create [PdiskShortner](https://pdiskshortener.in/api) account then get this value from [PdiskShortner API](https://pdiskshortener.in/api).
 
 ### How to Use?
 
