@@ -5,8 +5,8 @@
         "telegram",
         "Droplink"
     ],
-    "website": "https://github.com/ToonsHub/Droplink-bot",
-    "repository": "https://github.com/ToonsHub/Droplink-bot",
+    "website": "https://github.com/AsuranJ/Catchme_URL_Shortner",
+    "repository": "https://github.com/AsuranJ/Catchme_URL_Shortner",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
@@ -22,6 +22,14 @@
         },
         "API_KEY": {
             "description": "Get API key from https://droplink.co/member/tools/api",
+            "required": false
+        },
+        "API_KEY1": {
+            "description": "Get API key from https://earnforclick.online/member/tools/api",
+            "required": false
+        },
+        "API_KEY2": {
+            "description": "Get API key from https://pdiskshortener.in/member/tools/api",
             "required": false
         }
     },
