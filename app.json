@@ -1,5 +1,5 @@
 {
-    "name": "Droplink Bot",
+    "name": "URL Catchme_URL_Shortner",
     "description": "Make short link by using Droplink API key",
     "keywords": [
         "telegram",
@@ -30,6 +30,18 @@
         },
         "API_KEY2": {
             "description": "Get API key from https://pdiskshortener.in/member/tools/api",
+            "required": false
+        },
+        "API_KEY3": {
+            "description": "Get API key from https://adrinolinks.in/member/tools/api",
+            "required": false
+        },
+        "API_KEY4": {
+            "description": "Get API key from https://short2url.in/member/tools/api",
+            "required": false
+        },
+        "API_KEY5": {
+            "description": "Get API key from https://indianshortner.com/member/tools/api",
             "required": false
         }
     },
