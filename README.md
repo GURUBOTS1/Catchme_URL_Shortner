@@ -2,8 +2,9 @@
 
 
 ### Installation
+<p><b>6 Shortner</b> - <a href="https://heroku.com/deploy?template=https://github.com/AsuranJ/Catchme_URL_Shortner"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/AsuranJ/Catchme_URL_Shortner"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><b>3 Shortner</b> - <a href="https://heroku.com/deploy?template=https://github.com/AsuranJ/Catchme_URL_Shortner/tree/JAsuran"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
 
 ##### Required Variables
 
